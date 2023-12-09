@@ -1,5 +1,7 @@
 {
   "name": "@eszuri/lives-ui",
+  "description": "Component React Js Untuk Mempercepat Ngoding Kalian",
+  "author": "Eszuri",
   "private": false,
   "version": "0.0.1",
   "type": "module",
@@ -42,5 +44,15 @@
     "typescript": "^5.2.2",
     "vite": "^5.0.0",
     "vite-plugin-dts": "^3.6.4"
+  },
+  "license": "ISC",
+  "keywords": [
+    "react ui",
+    "component react",
+    "react component taillwind css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eszuri/Lives-UI.git"
   }
 }
