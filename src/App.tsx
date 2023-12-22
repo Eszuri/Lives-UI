@@ -1,10 +1,8 @@
-import { Button } from "..";
 
 export default function App() {
   return (
     <>
-      <div>App</div>
-      <Button />
+      <h1>\\\\\</h1>
     </>
   )
 }

@@ -1,5 +1,5 @@
 export function Button() {
     return (
-        <div>INI BUTTON</div>
+        <div>INI BUTTON OY</div>
     )
 }
