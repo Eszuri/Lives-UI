@@ -1,5 +1,19 @@
-export function Button() {
+import PropTypes from 'prop-types';
+
+export function Button({ children }: any) {
     return (
-        <div>INI BUTTON OY</div>
+        <button>{children}</button>
     )
+}
+
+
+
+// Type Data
+Button.propTypes = {
+    children: PropTypes.string
+}
+
+// Defalut Value
+Button.defaultProps = {
+    children: "No Name"
 }
